@@ -52,9 +52,9 @@
 #' Viet Duong Nguyen, Chiara Gigliarano, Mariateresa Ciommi
 #'
 #' @references
-#' Mariani, F., Ciommi, M., and Recchioni, M. C. (2024). Two in One: A New Tool
+#' Mariani, F., Ciommi, M., & Recchioni, M. C. (2024). Two in One: A New Tool
 #' to Combine Two Rankings Based on the Voronoi Diagram. \emph{Social Indicators
-#' Research}, \bold{175}, 989--1005.
+#' Research}, 175, 989--1005.
 #'
 #' @seealso [`rankComp`].
 #'

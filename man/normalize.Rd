@@ -112,9 +112,9 @@ df2.gp <- normalize(inds = df2[, 1:3], method = "goalpost",
 summary(df2.gp)
 }
 \references{
-Mazziotta, M. and Pareto, A. (2016). On a Generalized Non-compensatory
+Mazziotta, M., & Pareto, A. (2016). On a Generalized Non-compensatory
 Composite Index for Measuring Socio-economic Phenomena. \emph{Social
-Indicators Research}, \bold{127}, 983--1003.
+Indicators Research}, 127, 983--1003.
 }
 \seealso{
 \code{\link{giniCI}}.

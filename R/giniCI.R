@@ -66,14 +66,18 @@
 #' Viet Duong Nguyen, Chiara Gigliarano, Mariateresa Ciommi
 #'
 #' @references
-#' Mazziotta, M. and Pareto, A. (2016). On a Generalized Non-compensatory
-#' Composite Index for Measuring Socio-economic Phenomena. \emph{Social
-#' Indicators Research}, \bold{127}, 983--1003.
+#' Gini, C. (1914). Sulla misura della concentrazione e della variabilita dei
+#' caratteri. \emph{Atti del Reale Istituto Veneto di Scienze, Lettere ed Arti},
+#' 62(5), 1203--1248.
 #'
-#' Ciommi, M., Gigliarano, C., Emili, A., Taralli, S., and Chelli, F. M. (2017).
+#' Mazziotta, M., & Pareto, A. (2016). On a Generalized Non-compensatory
+#' Composite Index for Measuring Socio-economic Phenomena. \emph{Social
+#' Indicators Research}, 127, 983--1003.
+#'
+#' Ciommi, M., Gigliarano, C., Emili, A., Taralli, S., & Chelli, F. M. (2017).
 #' A new class of composite indicators for measuring well-being at the local
 #' level: An application to the Equitable and Sustainable Well-being (BES) of
-#' the Italian Provinces. \emph{Ecological Indicators}, \bold{76}, 281--296.
+#' the Italian Provinces. \emph{Ecological Indicators}, 76, 281--296.
 #'
 #' @note
 #' Methods `"gini"` and `"reci"` require non-negative indicators for the

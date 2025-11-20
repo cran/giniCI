@@ -15,8 +15,8 @@
 #' Mariateresa Ciommi
 #'
 #' @references
-#' Ciommi, M., Gigliarano, C., Emili, A., Taralli, S., and Chelli, F. M. (2017).
+#' Ciommi, M., Gigliarano, C., Emili, A., Taralli, S., & Chelli, F. M. (2017).
 #' A new class of composite indicators for measuring well-being at the local
 #' level: An application to the Equitable and Sustainable Well-being (BES) of
-#' the Italian Provinces. \emph{Ecological Indicators}, \bold{76}, 281--296.
+#' the Italian Provinces. \emph{Ecological Indicators}, 76, 281--296.
 NULL
